@@ -1,6 +1,6 @@
 {
-  "name": "@jasonephraim/prettier-config",
-  "version": "1.0.0",
+  "name": "@umbrage/prettier-config",
+  "version": "1.0.1",
   "description": "Prettier config",
   "main": "index.json",
   "repository": "git@github.com:jasonephraim/prettier-config.git",
